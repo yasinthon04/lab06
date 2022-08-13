@@ -1,4 +1,5 @@
 <template>
+  <h1>Yasinthon Roekkamyee</h1>
   <div id="flashMessage" v-if="GStore.flashMessage">
     {{ GStore.flashMessage }}
   </div>
