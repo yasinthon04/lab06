@@ -28,7 +28,7 @@ jobs:
         with:
           content: .
           push: true
-          tags: dto80/331-lab06:latest
+          tags: yasinthon/se331-lab06:latest
       -
         name: docker compose
         uses: alex-ac/github-action-ssh-docker-compose@master
