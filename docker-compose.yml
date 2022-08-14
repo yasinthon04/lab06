@@ -1,6 +1,6 @@
 version: "3.9"
 services:
   web:
-    image: "yasunthon04/se331-lab06"
+    image: "yasinthon04/se331-lab06"
     ports:
         - 8001:80
